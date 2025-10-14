@@ -16,3 +16,4 @@ Notes and usage details for free-domains.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- fix a small wording issue
